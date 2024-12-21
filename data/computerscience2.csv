@@ -1,0 +1,284 @@
+序號,會議簡稱,會議全名,分類,類型,專業領域
+1,TOCS,ACM Transactions on Computer Systems,A,期刊,電腦體系結構/平行與分散運算/儲存系統
+2,TOS,ACM Transactions on Storage,A,期刊,電腦體系結構/平行與分散運算/儲存系統
+3,TCAD,IEEE Transactions on Computer-Aided Design of Integrated Circuits and System,A,期刊,電腦體系結構/平行與分散運算/儲存系統
+4,TC,IEEE Transactions on Computers,A,期刊,電腦體系結構/平行與分散運算/儲存系統
+5,TPDS,IEEE Transactions on Parallel and Distributed Systems,A,期刊,電腦體系結構/平行與分散運算/儲存系統
+6,TACO,ACM Transactions on Architecture and Code Optimization,A,期刊,電腦體系結構/平行與分散運算/儲存系統
+1,TAAS,ACM Transactions on Autonomous and Adaptive Systems,B,期刊,電腦體系結構/平行與分散運算/儲存系統
+2,TODAES,ACM Transactions on Design Automation of Electronic Systems,B,期刊,電腦體系結構/平行與分散運算/儲存系統
+3,TECS,ACM Transactions on Embedded Computing Systems,B,期刊,電腦體系結構/平行與分散運算/儲存系統
+4,TRETS,ACM Transactions on Reconfigurable Technology and Systems,B,期刊,電腦體系結構/平行與分散運算/儲存系統
+5,TVLSI,IEEE Transactions on Very Large Scale Integration (VLSI) Systems,B,期刊,電腦體系結構/平行與分散運算/儲存系統
+6,JPDC,Journal of Parallel and Distributed Computing,B,期刊,電腦體系結構/平行與分散運算/儲存系統
+7,JSA,Journal of Systems Architecture: Embedded Software Design,B,期刊,電腦體系結構/平行與分散運算/儲存系統
+8,PARCO,Parallel Computing,B,期刊,電腦體系結構/平行與分散運算/儲存系統
+9,,Performance Evaluation: An International Journal,B,期刊,電腦體系結構/平行與分散運算/儲存系統
+1,JETC,ACM Journal on Emerging Technologies in Computing Systems,C,期刊,電腦體系結構/平行與分散運算/儲存系統
+2,,Concurrency and Computation: Practice and Experience,C,期刊,電腦體系結構/平行與分散運算/儲存系統
+3,DC,Distributed Computing,C,期刊,電腦體系結構/平行與分散運算/儲存系統
+4,FGCS,Future Generation Computer Systems,C,期刊,電腦體系結構/平行與分散運算/儲存系統
+5,TCC,IEEE Transactions on Cloud Computing,C,期刊,電腦體系結構/平行與分散運算/儲存系統
+6,Integration,"Integration, the VLSI Journal",C,期刊,電腦體系結構/平行與分散運算/儲存系統
+7,JETTA,Journal of Electronic Testing-Theory and Applications,C,期刊,電腦體系結構/平行與分散運算/儲存系統
+8,JGC,Journal of Grid computing,C,期刊,電腦體系結構/平行與分散運算/儲存系統
+9,RTS,Real-Time Systems,C,期刊,電腦體系結構/平行與分散運算/儲存系統
+10,TJSC,The Journal of Supercomputing,C,期刊,電腦體系結構/平行與分散運算/儲存系統
+11,TCASI,IEEE Transactions on Circuits and Systems I: Regular Papers,C,期刊,電腦體系結構/平行與分散運算/儲存系統
+12,CCF-THPC,CCF Transactions on High Performance Computing,C,期刊,電腦體系結構/平行與分散運算/儲存系統
+13,TSUSC,IEEE Transactions on Sustainable Computing,C,期刊,電腦體系結構/平行與分散運算/儲存系統
+1,JSAC,IEEE Journal of Selected Areas in Communications,A,期刊,電腦網路
+2,TMC,IEEE Transactions on Mobile Computing,A,期刊,電腦網路
+3,TON,IEEE/ACM Transactions on Networking,A,期刊,電腦網路
+1,TOIT,ACM Transactions on Internet Technology,B,期刊,電腦網路
+2,TOMCCAP,"ACM Transactions on Multimedia Computing, Communications and Applications",B,期刊,電腦網路
+3,TOSN,ACM Transactions on Sensor Networks,B,期刊,電腦網路
+4,CN,Computer Networks,B,期刊,電腦網路
+5,TCOM,IEEE Transactions on Communications,B,期刊,電腦網路
+6,TWC,IEEE Transactions on Wireless Communications,B,期刊,電腦網路
+1,,Ad Hoc Networks,C,期刊,電腦網路
+2,CC,Computer Communications,C,期刊,電腦網路
+3,TNSM,IEEE Transactions on Network and Service Management,C,期刊,電腦網路
+4,,IET Communications,C,期刊,電腦網路
+5,JNCA,Journal of Network and Computer Applications,C,期刊,電腦網路
+6,MONET,Mobile Networks & Applications,C,期刊,電腦網路
+7,,Networks,C,期刊,電腦網路
+8,PPNA,Peer-to-Peer Networking and Applications,C,期刊,電腦網路
+9,WCMC,Wireless Communications & Mobile Computing,C,期刊,電腦網路
+10,,Wireless Networks,C,期刊,電腦網路
+11,IOT,IEEE Internet of Things Journal,C,期刊,電腦網路
+1,TDSC,IEEE Transactions on Dependable and Secure Computing,A,期刊,網路與資訊安全
+2,TIFS,IEEE Transactions on Information Forensics and Security,A,期刊,網路與資訊安全
+3,,Journal of Cryptology,A,期刊,網路與資訊安全
+1,TISSEC,ACM Transactions on Information and System Security,B,期刊,網路與資訊安全
+2,,Computers & Security,B,期刊,網路與資訊安全
+3,,"Designs, Codes and Cryptography",B,期刊,網路與資訊安全
+4,JCS,Journal of Computer Security,B,期刊,網路與資訊安全
+1,CLSR,Computer Law and Security Review,C,期刊,網路與資訊安全
+2,,EURASIP Journal on Information Security,C,期刊,網路與資訊安全
+3,,IET Information Security,C,期刊,網路與資訊安全
+4,IMCS,Information Management & Computer Security,C,期刊,網路與資訊安全
+5,IJICS,International Journal of Information and Computer Security,C,期刊,網路與資訊安全
+6,IJISP,International Journal of Information Security and Privacy,C,期刊,網路與資訊安全
+7,JISA,Journal of Information Security and Application,C,期刊,網路與資訊安全
+8,SCN,Security and Communication Networks,C,期刊,網路與資訊安全
+9,,Cyber​​security,C,期刊,網路與資訊安全
+1,TOPLAS,ACM Transactions on Programming Languages & Systems,A,期刊,軟體工程/系統軟體/程式設計語言
+2,TOSEM,ACM Transactions on Software Engineering and Methodology,A,期刊,軟體工程/系統軟體/程式設計語言
+3,TSE,IEEE Transactions on Software Engineering,A,期刊,軟體工程/系統軟體/程式設計語言
+4,TSC,IEEE Transactions on Service Computing,B,期刊,軟體工程/系統軟體/程式設計語言
+1,ASE,Automated Software Engineering,B,期刊,軟體工程/系統軟體/程式設計語言
+2,ESE,Empirical Software Engineering,B,期刊,軟體工程/系統軟體/程式設計語言
+3,IETS,IET Software,B,期刊,軟體工程/系統軟體/程式設計語言
+4,IST,Information and Software Technology,B,期刊,軟體工程/系統軟體/程式設計語言
+5,JFP,Journal of Functional Programming,B,期刊,軟體工程/系統軟體/程式設計語言
+6,,Journal of Software: Evolution and Process,B,期刊,軟體工程/系統軟體/程式設計語言
+7,JSS,Journal of Systems and Software,B,期刊,軟體工程/系統軟體/程式設計語言
+8,RE,Requirements Engineering,B,期刊,軟體工程/系統軟體/程式設計語言
+9,SCP,Science of Computer Programming,B,期刊,軟體工程/系統軟體/程式設計語言
+10,SoSyM,Software and System Modeling,B,期刊,軟體工程/系統軟體/程式設計語言
+11,STVR,"Software Testing, Verification and Reliability",B,期刊,軟體工程/系統軟體/程式設計語言
+12,SPE,Software: Practice and Experience,B,期刊,軟體工程/系統軟體/程式設計語言
+1,CL,"Computer Languages, Systems and Structures",C,期刊,軟體工程/系統軟體/程式設計語言
+2,IJSEKE,International Journal on Software Engineering and Knowledge Engineering,C,期刊,軟體工程/系統軟體/程式設計語言
+3,STTT,International Journal on Software Tools for Technology Transfer,C,期刊,軟體工程/系統軟體/程式設計語言
+4,JLAP,Journal of Logic and Algebraic Programming,C,期刊,軟體工程/系統軟體/程式設計語言
+5,JWE,Journal of Web Engineering,C,期刊,軟體工程/系統軟體/程式設計語言
+6,SOCA,Service Oriented Computing and Applications,C,期刊,軟體工程/系統軟體/程式設計語言
+7,SQJ,Software Quality Journal,C,期刊,軟體工程/系統軟體/程式設計語言
+8,TPLP,Theory and Practice of Logic Programming,C,期刊,軟體工程/系統軟體/程式設計語言
+8,TPLP,Theory and Practice of Logic Programming,C,期刊,軟體工程/系統軟體/程式設計語言
+9,PACM PL,Proceedings of the ACM on Programming Languages,C,期刊,軟體工程/系統軟體/程式設計語言
+1,TODS,ACM Transactions on Database Systems,A,期刊,資料庫/資料探勘/內容檢索
+2,TOIS,ACM Transactions on Information Systems,A,期刊,資料庫/資料探勘/內容檢索
+3,TKDE,IEEE Transactions on Knowledge and Data Engineering,A,期刊,資料庫/資料探勘/內容檢索
+4,VLDBJ,The VLDB Journal,A,期刊,資料庫/資料探勘/內容檢索
+1,TKDD,ACM Transactions on Knowledge Discovery from Data,B,期刊,資料庫/資料探勘/內容檢索
+2,TWEB,ACM Transactions on the Web,B,期刊,資料庫/資料探勘/內容檢索
+3,AEI,Advanced Engineering Informatics,B,期刊,資料庫/資料探勘/內容檢索
+4,DKE,Data and Knowledge Engineering,B,期刊,資料庫/資料探勘/內容檢索
+5,DMKD,Data Mining and Knowledge Discovery,B,期刊,資料庫/資料探勘/內容檢索
+6,EJIS,European Journal of Information Systems,B,期刊,資料庫/資料探勘/內容檢索
+7,,GeoInformatica,B,期刊,資料庫/資料探勘/內容檢索
+8,IPM,Information Processing and Management,B,期刊,資料庫/資料探勘/內容檢索
+9,,Information Sciences,B,期刊,資料庫/資料探勘/內容檢索
+10,IS,Information Systems,B,期刊,資料庫/資料探勘/內容檢索
+11,JASIST,Journal of the American Society for Information Science and Technology,B,期刊,資料庫/資料探勘/內容檢索
+12,JWS,Journal of Web Semantics,B,期刊,資料庫/資料探勘/內容檢索
+13,KAIS,Knowledge and Information Systems,B,期刊,資料庫/資料探勘/內容檢索
+1,DPD,Distributed and Parallel Databases,C,期刊,資料庫/資料探勘/內容檢索
+2,I&M,Information and Management,C,期刊,資料庫/資料探勘/內容檢索
+3,IPL,Information Processing Letters,C,期刊,資料庫/資料探勘/內容檢索
+4,IR,Information Retrieval Journal,C,期刊,資料庫/資料探勘/內容檢索
+5,IJCIS,International Journal of Cooperative Information Systems,C,期刊,資料庫/資料探勘/內容檢索
+6,IJGIS,International Journal of Geographical Information Science,C,期刊,資料庫/資料探勘/內容檢索
+7,IJIS,International Journal of Intelligent Systems,C,期刊,資料庫/資料探勘/內容檢索
+8,IJKM,International Journal of Knowledge Management,C,期刊,資料庫/資料探勘/內容檢索
+9,IJSWIS,International Journal on Semantic Web and Information Systems,C,期刊,資料庫/資料探勘/內容檢索
+10,JCIS,Journal of Computer Information Systems,C,期刊,資料庫/資料探勘/內容檢索
+11,JDM,Journal of Database Management,C,期刊,資料庫/資料探勘/內容檢索
+12,JGITM,Journal of Global Information Technology Management,C,期刊,資料庫/資料探勘/內容檢索
+13,JIIS,Journal of Intelligent Information Systems,C,期刊,資料庫/資料探勘/內容檢索
+14,JSIS,Journal of Strategic Information Systems,C,期刊,資料庫/資料探勘/內容檢索
+15,DSE,Data Science and Engineering,C,期刊,資料庫/資料探勘/內容檢索
+1,TIT,IEEE Transactions on Information Theory,A,期刊,計算機科學理論
+2,IANDC,Information and Computation,A,期刊,計算機科學理論
+3,SICOMP,SIAM Journal on Computing,A,期刊,計算機科學理論
+1,TALG,ACM Transactions on Algorithms,B,期刊,計算機科學理論
+2,TOCL,ACM Transactions on Computational Logic,B,期刊,計算機科學理論
+3,TOMS,ACM Transactions on Mathematical Software,B,期刊,計算機科學理論
+4,Algorithmica,Algorithmica,B,期刊,計算機科學理論
+5,CC,Computational Complexity,B,期刊,計算機科學理論
+6,FAC,Formal Aspects of Computing,B,期刊,計算機科學理論
+7,FMSD,Formal Methods in System Design,B,期刊,計算機科學理論
+8,INFORMS,INFORMS Journal on Computing,B,期刊,計算機科學理論
+9,JCSS,Journal of Computer and System Sciences,B,期刊,計算機科學理論
+10,JGO,Journal of Global Optimization,B,期刊,計算機科學理論
+11,JSC,Journal of Symbolic Computation,B,期刊,計算機科學理論
+12,MSCS,Mathematical Structures in Computer Science,B,期刊,計算機科學理論
+13,TCS,Theoretical Computer Science,B,期刊,計算機科學理論
+1,ACTA,Acta Informatica,C,期刊,計算機科學理論
+2,APAL,Annals of Pure and Applied Logic,C,期刊,計算機科學理論
+3,DAM,Discrete Applied Mathematics,C,期刊,計算機科學理論
+4,FUIN,Fundamenta Informaticae,C,期刊,計算機科學理論
+5,LISP,Higher-Order and Symbolic Computation,C,期刊,計算機科學理論
+6,IPL,Information Processing Letters,C,期刊,計算機科學理論
+7,JCOMPLEXITY,Journal of Complexity,C,期刊,計算機科學理論
+8,LOGCOM,Journal of Logic and Computation,C,期刊,計算機科學理論
+9,JSL,Journal of Symbolic Logic,C,期刊,計算機科學理論
+10,LMCS,Logical Methods in Computer Science,C,期刊,計算機科學理論
+11,SIDMA,SIAM Journal on Discrete Mathematics,C,期刊,計算機科學理論
+12,,Theory of Computing Systems,C,期刊,計算機科學理論
+1,TOG,ACM Transactions on Graphics,A,期刊,電腦圖形學與多媒體
+2,TIP,IEEE Transactions on Image Processing,A,期刊,電腦圖形學與多媒體
+3,TVCG,IEEE Transactions on Visualization and Computer Graphics,A,期刊,電腦圖形學與多媒體
+1,TOMCCAP,"ACM Transactions on Multimedia Computing, Communications and Application",B,期刊,電腦圖形學與多媒體
+2,CAGD,Computer Aided Geometric Design,B,期刊,電腦圖形學與多媒體
+3,CGF,Computer Graphics Forum,B,期刊,電腦圖形學與多媒體
+4,CAD,Computer-Aided Design,B,期刊,電腦圖形學與多媒體
+5,GM,Graphical Models,B,期刊,電腦圖形學與多媒體
+6,TCSVT,IEEE Transactions on Circuits and Systems for Video Technology,B,期刊,電腦圖形學與多媒體
+7,TMM,IEEE Transactions on Multimedia,B,期刊,電腦圖形學與多媒體
+8,JASA,Journal of The Acoustical Society of America,B,期刊,電腦圖形學與多媒體
+9,SIIMS,SIAM Journal on Imaging Sciences,B,期刊,電腦圖形學與多媒體
+10,Speech Com,Speech Communication,B,期刊,電腦圖形學與多媒體
+1,CGTA,Computational Geometry: Theory and Applications,C,期刊,電腦圖形學與多媒體
+2,CAVW,Computer Animation and Virtual Worlds,C,期刊,電腦圖形學與多媒體
+3,C&G,Computers & Graphics,C,期刊,電腦圖形學與多媒體
+4,DCG,Discrete & Computational Geometry,C,期刊,電腦圖形學與多媒體
+5,SPL,IEEE Signal Processing Letters,C,期刊,電腦圖形學與多媒體
+6,IET-IPR,IET Image Processing,C,期刊,電腦圖形學與多媒體
+7,JVCIR,Journal of Visual Communication and Image Representation,C,期刊,電腦圖形學與多媒體
+8,MS,Multimedia Systems,C,期刊,電腦圖形學與多媒體
+9,MTA,Multimedia Tools and Applications,C,期刊,電腦圖形學與多媒體
+10,,Signal Processing,C,期刊,電腦圖形學與多媒體
+11,SPIC,Signal Processing: Image Communication,C,期刊,電腦圖形學與多媒體
+12,TVC,The Visual Computer,C,期刊,電腦圖形學與多媒體
+13,CVMJ,Computational Visual Media,C,期刊,電腦圖形學與多媒體
+1,AI,Artificial Intelligence,A,期刊,人工智慧
+2,TPAMI,IEEE Trans on Pattern Analysis and Machine Intelligence,A,期刊,人工智慧
+3,IJCV,International Journal of Computer Vision,A,期刊,人工智慧
+4,JMLR,Journal of Machine Learning Research,A,期刊,人工智慧
+1,TAP,ACM Transactions on Applied Perception,B,期刊,人工智慧
+2,AAMAS,Autonomous Agents and Multi-Agent Systems,B,期刊,人工智慧
+3,,Computational Linguistics,B,期刊,人工智慧
+4,CVIU,Computer Vision and Image Understanding,B,期刊,人工智慧
+5,DKE,Data and Knowledge Engineering,B,期刊,人工智慧
+6,,Evolutionary Computation,B,期刊,人工智慧
+7,TAC,IEEE Transactions on Affective Computing,B,期刊,人工智慧
+8,TASLP,"IEEE Transactions on Audio, Speech, and Language Processing",B,期刊,人工智慧
+9,,IEEE Transactions on Cyber​​netics,B,期刊,人工智慧
+10,TEC,IEEE Transactions on Evolutionary Computation,B,期刊,人工智慧
+11,TFS,IEEE Transactions on Fuzzy Systems,B,期刊,人工智慧
+12,TNNLS,IEEE Transactions on Neural Networks and learning systems,B,期刊,人工智慧
+13,IJAR,International Journal of Approximate Reasoning,B,期刊,人工智慧
+14,JAIR,Journal of Artificial Intelligence Research,B,期刊,人工智慧
+15,,Journal of Automated Reasoning,B,期刊,人工智慧
+16,JSLHR,"Journal of Speech, Language, and Hearing Research",B,期刊,人工智慧
+17,,Machine Learning,B,期刊,人工智慧
+18,,Neural Computation,B,期刊,人工智慧
+19,,Neural Networks,B,期刊,人工智慧
+20,PR,Pattern Recognition,B,期刊,人工智慧
+21,TACL,Transactions of the Association for Computational Linguistics,B,期刊,人工智慧
+1,TALIP,ACM Transactions on Asian Language Information Processing,C,期刊,人工智慧
+2,,Applied Intelligence,C,期刊,人工智慧
+3,AIM,Artificial Intelligence in Medicine,C,期刊,人工智慧
+4,,Artificial Life,C,期刊,人工智慧
+5,,Computational Intelligence,C,期刊,人工智慧
+6,,Computer Speech and Language,C,期刊,人工智慧
+7,,Connection Science,C,期刊,人工智慧
+8,DSS,Decision Support Systems,C,期刊,人工智慧
+9,EAAI,Engineering Applications of Artificial Intelligence,C,期刊,人工智慧
+10,,Expert Systems,C,期刊,人工智慧
+11,ESWA,Expert Systems with Applications,C,期刊,人工智慧
+12,,Fuzzy Sets and Systems,C,期刊,人工智慧
+13,TG,IEEE Transactions on Games,C,期刊,人工智慧
+14,IET-CVI,IET Computer Vision,C,期刊,人工智慧
+15,,IET Signal Processing,C,期刊,人工智慧
+16,IVC,Image and Vision Computing,C,期刊,人工智慧
+17,IDA,Intelligent Data Analysis,C,期刊,人工智慧
+18,IJCIA,International Journal of Computational Intelligence and Applications,C,期刊,人工智慧
+19,IJIS,International Journal of Intelligent Systems,C,期刊,人工智慧
+20,IJNS,International Journal of Neural Systems,C,期刊,人工智慧
+21,IJPRAI,International Journal of Pattern Recognition and Artificial Intelligence,C,期刊,人工智慧
+22,IJUFKS,"International Journal of Uncertainty, Fuzziness and Knowledge-Based System",C,期刊,人工智慧
+23,IJDAR,International Journal on Document Analysis and Recognition,C,期刊,人工智慧
+24,JETAI,Journal of Experimental and Theoretical Artificial Intelligence,C,期刊,人工智慧
+25,KBS,Knowledge-Based Systems,C,期刊,人工智慧
+26,,Machine Translation,C,期刊,人工智慧
+27,,Machine Vision and Applications,C,期刊,人工智慧
+28,,Natural Computing,C,期刊,人工智慧
+29,NLE,Natural Language Engineering,C,期刊,人工智慧
+30,NCA,Neural Computing & Applications,C,期刊,人工智慧
+31,NPL,Neural Processing Letters,C,期刊,人工智慧
+32,,Neurocomputing,C,期刊,人工智慧
+33,PAA,Pattern Analysis and Applications,C,期刊,人工智慧
+34,PRL,Pattern Recognition Letters,C,期刊,人工智慧
+35,,Soft Computing,C,期刊,人工智慧
+36,WI,Web Intelligence,C,期刊,人工智慧
+37,TIIS,ACM Transactions on Interactive Intelligent Systems,C,期刊,人工智慧
+1,TOCHI,ACM Transactions on Computer-Human Interaction,A,期刊,人機互動與普適計算
+2,IJHCS,International Journal of Human Computer Studies,A,期刊,人機互動與普適計算
+1,CSCW,Computer Supported Cooperative Work,B,期刊,人機互動與普適計算
+2,HCI,Human Computer Interaction,B,期刊,人機互動與普適計算
+3,,IEEE Transactions on Human-Machine Systems,B,期刊,人機互動與普適計算
+4,IWC,Interacting with Computers,B,期刊,人機互動與普適計算
+5,IJHCI,International Journal of Human-Computer Interaction,B,期刊,人機互動與普適計算
+6,UMUAI,User Modeling and User-Adapted Interaction,B,期刊,人機互動與普適計算
+7,TSMC,"IEEE Transactions on Systems, Man, and Cyber​​netics: Systems",B,期刊,人機互動與普適計算
+1,BIT,Behaviour & Information Technology,C,期刊,人機互動與普適計算
+2,PUC,Personal and Ubiquitous Computing,C,期刊,人機互動與普適計算
+3,PMC,Pervasive and Mobile Computing,C,期刊,人機互動與普適計算
+4,PACMHCI,Proceedings of the ACM on HumanComputer Interaction,C,期刊,人機互動與普適計算
+1,JACM,Journal of the ACM,A,期刊,交叉/綜合/新興
+2,Proc. IEEE,Proceedings of the IEEE,A,期刊,交叉/綜合/新興
+3,SCIS,Science China Information Sciences,A,期刊,交叉/綜合/新興
+1,,Bioinformatics,B,期刊,交叉/綜合/新興
+2,,Briefings in Bioinformatics,B,期刊,交叉/綜合/新興
+3,Cognition,Cognition：International Journal of Cognitive Science,B,期刊,交叉/綜合/新興
+4,TASAE,IEEE Transactions on Automation Science and Engineering,B,期刊,交叉/綜合/新興
+5,TGARS,IEEE Transactions on Geoscience and Remote Sensing,B,期刊,交叉/綜合/新興
+6,TITS,IEEE Transactions on Intelligent Transportation Systems,B,期刊,交叉/綜合/新興
+7,TMI,IEEE Transactions on Medical Imaging,B,期刊,交叉/綜合/新興
+8,TR,IEEE Transactions on Robotics,B,期刊,交叉/綜合/新興
+9,TCBB,IEEE-ACM Transactions on Computational Biology and Bioinformatics,B,期刊,交叉/綜合/新興
+10,JCST,Journal of Computer Science and Technology,B,期刊,交叉/綜合/新興
+11,JAMIA,Journal of the American Medical Informatics Association,B,期刊,交叉/綜合/新興
+12,,PLOS Computational Biology,B,期刊,交叉/綜合/新興
+13,,The Computer Journal,B,期刊,交叉/綜合/新興
+14,WWW,World Wide Web Journal,B,期刊,交叉/綜合/新興
+15,FCS,Frontiers of Computer Science,C,期刊,交叉/綜合/新興
+1,,BMC Bioinformatics,C,期刊,交叉/綜合/新興
+2,,Cyber​​netics and Systems,C,期刊,交叉/綜合/新興
+3,,IEEE Geoscience and Remote Sensing Letters,C,期刊,交叉/綜合/新興
+4,JBHI,IEEE Journal of Biomedical and Health Informatics,C,期刊,交叉/綜合/新興
+5,TBD,IEEE Transactions on Big Data,C,期刊,交叉/綜合/新興
+6,,IET Intelligent Transport Systems,C,期刊,交叉/綜合/新興
+7,JBI,Journal of Biomedical Informatics,C,期刊,交叉/綜合/新興
+8,,Medical Image Analysis,C,期刊,交叉/綜合/新興
+9,TII,IEEE Transactions on Industrial Informatics,C,期刊,交叉/綜合/新興
+10,TCPS,ACM Transactions on Cyber​​-Physical Systems,C,期刊,交叉/綜合/新興
+11,TOCE,ACM Transactions on Computing Education,C,期刊,交叉/綜合/新興
+12,FITEE,Frontiers of Information Technology & Electronic Engineering,C,期刊,交叉/綜合/新興
+13,TCSS,IEEE Transactions on Computational Social Systems,C,期刊,交叉/綜合/新興
+14,,IEEE Transactions on Reliability,C,期刊,交叉/綜合/新興

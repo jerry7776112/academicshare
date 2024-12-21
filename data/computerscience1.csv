@@ -1,0 +1,366 @@
+序號,會議簡稱,會議全名,分類,類型,專業領域
+1,PPoPP,ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming,A,會議,電腦體系結構/平行與分散運算/儲存系統
+2,FAST,Conference on File and Storage Technologies,A,會議,電腦體系結構/平行與分散運算/儲存系統
+3,DAC,Design Automation Conference,A,會議,電腦體系結構/平行與分散運算/儲存系統
+4,HPCA,High Performance Computer Architecture,A,會議,電腦體系結構/平行與分散運算/儲存系統
+5,MICRO,IEEE/ACM International Symposium on Microarchitecture,A,會議,電腦體系結構/平行與分散運算/儲存系統
+6,SC,"International Conference for High Performance Computing, Networking, Storage, and Analysis",A,會議,電腦體系結構/平行與分散運算/儲存系統
+7,ASPLOS,International Conference on Architectural Support for Programming Languages and Operating Systems,A,會議,電腦體系結構/平行與分散運算/儲存系統
+8,ISCA,International Symposium on Computer Architecture,A,會議,電腦體系結構/平行與分散運算/儲存系統
+9,USENIX ATC,USENIX Annul Technical Conference,A,會議,電腦體系結構/平行與分散運算/儲存系統
+10,EuroSys,European Conference on Computer Systems,A,會議,電腦體系結構/平行與分散運算/儲存系統
+1,SoCC,ACM Symposium on Cloud Computing,B,會議,電腦體系結構/平行與分散運算/儲存系統
+2,SPAA,ACM Symposium on Parallelism in Algorithms and Architectures,B,會議,電腦體系結構/平行與分散運算/儲存系統
+3,PODC,ACM Symposium on Principles of Distributed Computing,B,會議,電腦體系結構/平行與分散運算/儲存系統
+4,FPGA,ACM/SIGDA International Symposium on Field-Programmable Gate Arrays,B,會議,電腦體系結構/平行與分散運算/儲存系統
+5,CGO,Code Generation and Optimization,B,會議,電腦體系結構/平行與分散運算/儲存系統
+6,DATE,"Design, Automation & Test in Europe",B,會議,電腦體系結構/平行與分散運算/儲存系統
+7,HOT CHIPS,Hot Chips: A Symposium on High Performance Chips,B,會議,電腦體系結構/平行與分散運算/儲存系統
+8,CLUSTER,IEEE International Conference on Cluster Computing,B,會議,電腦體系結構/平行與分散運算/儲存系統
+9,ICCD,International Conference on Computer Design,B,會議,電腦體系結構/平行與分散運算/儲存系統
+10,ICCAD,International Conference on Computer-Aided Design,B,會議,電腦體系結構/平行與分散運算/儲存系統
+11,ICDCS,International Conference on Distributed Computing Systems,B,會議,電腦體系結構/平行與分散運算/儲存系統
+12,CODES+ISSS,International Conference on Hardware/Software Co-design and System Synthesis,B,會議,電腦體系結構/平行與分散運算/儲存系統
+13,HiPEAC,International Conference on High Performance and Embedded Architectures and Compilers,B,會議,電腦體系結構/平行與分散運算/儲存系統
+14,SIGMETRICS,International Conference on Measurement and Modeling of Computer Systems,B,會議,電腦體系結構/平行與分散運算/儲存系統
+15,PACT,International Conference on Parallel Architectures and Compilation Techniques,B,會議,電腦體系結構/平行與分散運算/儲存系統
+16,ICPP,International Conference on Parallel Processing,B,會議,電腦體系結構/平行與分散運算/儲存系統
+17,ICS,International Conference on Supercomputing,B,會議,電腦體系結構/平行與分散運算/儲存系統
+18,VEE,International Conference on Virtual Execution Environments,B,會議,電腦體系結構/平行與分散運算/儲存系統
+19,IPDPS,International Parallel & Distributed Processing Symposium,B,會議,電腦體系結構/平行與分散運算/儲存系統
+20,Performance,"International Symposium on Computer Performance Modeling, Measurements and Evaluation",B,會議,電腦體系結構/平行與分散運算/儲存系統
+21,HPDC,International Symposium on High Performance Distributed Computing,B,會議,電腦體系結構/平行與分散運算/儲存系統
+22,ITC,International Test Conference,B,會議,電腦體系結構/平行與分散運算/儲存系統
+23,LISA,Large Installation System Administration Conference,B,會議,電腦體系結構/平行與分散運算/儲存系統
+24,MSST,Mass Storage Systems and Technologies,B,會議,電腦體系結構/平行與分散運算/儲存系統
+25,RTAS,Real-Time and Embedded Technology and Applications Symposium,B,會議,電腦體系結構/平行與分散運算/儲存系統
+26,Euro-Par,European Conference on Parallel and Distributed Computing,B,會議,電腦體系結構/平行與分散運算/儲存系統
+1,CF,ACM International Conference on Computing Frontiers,C,會議,電腦體系結構/平行與分散運算/儲存系統
+2,SYSTOR,ACM International Systems and Storage Conference,C,會議,電腦體系結構/平行與分散運算/儲存系統
+3,NOCS,ACM/IEEE International Symposium on Networks-on-Chip,C,會議,電腦體系結構/平行與分散運算/儲存系統
+4,ASAP,"Application-Specific Systems, Architectures, and Processors",C,會議,電腦體系結構/平行與分散運算/儲存系統
+5,ASP-DAC,Asia and South Pacific Design Automation Conference,C,會議,電腦體系結構/平行與分散運算/儲存系統
+6,ETS,European Test Symposium,C,會議,電腦體系結構/平行與分散運算/儲存系統
+7,FPL,Field Programmable Logic and Applications,C,會議,電腦體系結構/平行與分散運算/儲存系統
+8,FCCM,Field-Programmable Custom Computing Machines,C,會議,電腦體系結構/平行與分散運算/儲存系統
+9,GLSVLSI,Great Lakes Symposium on VLSI,C,會議,電腦體系結構/平行與分散運算/儲存系統
+10,ATS,IEEE Asian Test Symposium,C,會議,電腦體系結構/平行與分散運算/儲存系統
+11,HPCC,IEEE International Conference on High Performance Computing and Communications,C,會議,電腦體系結構/平行與分散運算/儲存系統
+12,HiPC,"IEEE International Conference on High Performance Computing, Data and Analytics",C,會議,電腦體系結構/平行與分散運算/儲存系統
+13,MASCOTS,"IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems",C,會議,電腦體系結構/平行與分散運算/儲存系統
+14,ISPA,IEEE International Symposium on Parallel and Distributed Processing with Applications,C,會議,電腦體系結構/平行與分散運算/儲存系統
+15,CCGRID,"IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing",C,會議,電腦體系結構/平行與分散運算/儲存系統
+16,NPC,IFIP International Conference on Network and Parallel Computing,C,會議,電腦體系結構/平行與分散運算/儲存系統
+17,ICA3PP,International Conference on Algorithms and Architectures for Parallel Processing,C,會議,電腦體系結構/平行與分散運算/儲存系統
+18,CASES,"International Conference on Compilers, Architectures, and Synthesis for Embedded Systems",C,會議,電腦體系結構/平行與分散運算/儲存系統
+18,FPT,International Conference on Field-Programmable Technology,C,會議,電腦體系結構/平行與分散運算/儲存系統
+20,ICPADS,International Conference on Parallel and Distributed Systems,C,會議,電腦體系結構/平行與分散運算/儲存系統
+21,ISCAS,International Symposium on Circuits and Systems,C,會議,電腦體系結構/平行與分散運算/儲存系統
+22,ISLPED,International Symposium on Low Power Electronics and Design,C,會議,電腦體系結構/平行與分散運算/儲存系統
+23,ISPD,International Symposium on Physical Design,C,會議,電腦體系結構/平行與分散運算/儲存系統
+24,HotI,Symposium on High-Performance Interconnects,C,會議,電腦體系結構/平行與分散運算/儲存系統
+25,VTS,VLSI Test Symposium,C,會議,電腦體系結構/平行與分散運算/儲存系統
+26,ITC-Asia,International Test Conference in Asia,C,會議,電腦體系結構/平行與分散運算/儲存系統
+1,SIGCOMM,"ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",A,會議,電腦網路
+2,MobiCom,ACM International Conference on Mobile Computing and Networking,A,會議,電腦網路
+3,INFOCOM,IEEE International Conference on Computer Communications,A,會議,電腦網路
+4,NSDI,Symposium on Network System Design and Implementation,A,會議,電腦網路
+1,SenSys,ACM Conference on Embedded Networked Sensor Systems,B,會議,電腦網路
+2,CoNEXT,ACM International Conference on Emerging Networking Experiments and Technologies,B,會議,電腦網路
+3,SECON,IEEE Communications Society Conference on Sensor and Ad Hoc Communications and Networks,B,會議,電腦網路
+4,IPSN,International Conference on Information Processing in Sensor Networks,B,會議,電腦網路
+5,MobiSys,"International Conference on Mobile Systems, Applications, and Services",B,會議,電腦網路
+6,ICNP,International Conference on Network Protocols,B,會議,電腦網路
+7,MobiHoc,International Symposium on Mobile Ad Hoc Networking and Computing,B,會議,電腦網路
+8,NOSSDAV,International Workshop on Network and Operating System Support for Digital Audio and Video,B,會議,電腦網路
+9,IWQoS,International Workshop on Quality of Service,B,會議,電腦網路
+10,IMC,Internet Measurement Conference,B,會議,電腦網路
+1,ANCS,Architectures for Networking and Communications Systems,C,會議,電腦網路
+2,APNOMS,Asia-Pacific Network Operations and Management Symposium,C,會議,電腦網路
+3,FORTE,Formal Techniques for Networked and Distributed Systems,C,會議,電腦網路
+4,LCN,IEEE Con​​ference on Local Computer Networks,C,會議,電腦網路
+5,GLOBECO M,IEEE Global Communications Conference,C,會議,電腦網路
+6,ICC,IEEE International Conference on Communications,C,會議,電腦網路
+7,ICCCN,IEEE International Conference on Computer Communications and Networks,C,會議,電腦網路
+8,MASS,IEEE International Conference on Mobile Ad-hoc and Sensor Systems,C,會議,電腦網路
+9,P2P,IEEE International Conference on Peer-to-Peer Computing,C,會議,電腦網路
+10,IPCCC,IEEE International Performance Computing and Communications Conference,C,會議,電腦網路
+11,WoWMoM,"IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks",C,會議,電腦網路
+12,ISCC,IEEE Symposium on Computers and Communications,C,會議,電腦網路
+13,WCNC,IEEE Wireless Communications & Networking Conference,C,會議,電腦網路
+14,Networking,IFIP International Conferences on Networking,C,會議,電腦網路
+15,IM,IFIP/IEEE International Symposium on Integrated Network Management,C,會議,電腦網路
+16,MSN,International Conference on Mobile Ad-hoc and Sensor Networks,C,會議,電腦網路
+17,MSWiM,"International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",C,會議,電腦網路
+18,WASA,The International Conference on Wireless Artificial Intelligent Computing Systems and Applications,C,會議,電腦網路
+19,HotNets,The Workshop on Hot Topics in Networks,C,會議,電腦網路
+20,APNet,Asia-Pacific Workshop on Networking,C,會議,電腦網路
+1,CCS,ACM Conference on Computer and Communications Security,A,會議,網路與資訊安全
+2,EUROCRYPT,European Cryptology Conference,A,會議,網路與資訊安全
+3,S&P,IEEE Symposium on Security and Privacy,A,會議,網路與資訊安全
+4,CRYPTO,International Cryptology Conference,A,會議,網路與資訊安全
+5,USENIX Security,Usenix Security Symposium,A,會議,網路與資訊安全
+6,NDSS,ISOC Network and Distributed System Security Symposium,A,會議,網路與資訊安全
+1,ACSAC,Annual Computer Security Applications Conference,B,會議,網路與資訊安全
+2,ASIACRYPT,Annual International Conference on the Theory and Application of Cryptology and Information Security,B,會議,網路與資訊安全
+3,ESORICS,European Symposium on Research in Computer Security,B,會議,網路與資訊安全
+4,FSE,Fast Software Encryption,B,會議,網路與資訊安全
+5,CSFW,IEEE Computer Security Foundations Workshop,B,會議,網路與資訊安全
+6,SRDS,IEEE International Symposium on Reliable Distributed Systems,B,會議,網路與資訊安全
+7,CHES,International Conference on Cryptographic Hardware and Embedded Systems,B,會議,網路與資訊安全
+8,DSN,International Conference on Dependable Systems and Networks,B,會議,網路與資訊安全
+9,RAID,International Symposium on Recent Advances in Intrusion Detection,B,會議,網路與資訊安全
+10,PKC,International Workshop on Practice and Theory in Public Key Cryptography,B,會議,網路與資訊安全
+11,TCC,Theory of Cryptography Conference,B,會議,網路與資訊安全
+1,WiSec,ACM Conference on Security and Privacy in Wireless and Mobile Networks,C,會議,網路與資訊安全
+2,SACMAT,ACM Symposium on Access Control Models and Technologies,C,會議,網路與資訊安全
+3,DRM,ACM Workshop on Digital Rights Management,C,會議,網路與資訊安全
+4,IH&MMSec,ACM Workshop on Information Hiding and Multimedia Security,C,會議,網路與資訊安全
+5,ACNS,Applied Cryptography and Network Security,C,會議,網路與資訊安全
+6,AsiaCCS,Asia Conference on Computer and Communications Security,C,會議,網路與資訊安全
+7,ACISP,Australasia Conference on Information Security and Privacy,C,會議,網路與資訊安全
+8,CT-RSA,Cryptographer's Track at RSA Conference,C,會議,網路與資訊安全
+9,DIMVA,Detection of Intrusions and Malware & Vulnerability Assessment,C,會議,網路與資訊安全
+10,DFRWS,Digital Forensic Research Workshop,C,會議,網路與資訊安全
+11,FC,Financial Cryptography and Data Security,C,會議,網路與資訊安全
+12,TrustCom,"IEEE International Conference on Trust, Security and Privacy in Computing and Communications",C,會議,網路與資訊安全
+13,SEC,IFIP International Information Security Conference,C,會議,網路與資訊安全
+14,IFIP WG 11.9,IFIP WG 11.9 International Conference on Digital Forensics,C,會議,網路與資訊安全
+15,ISC,Information Security Conference,C,會議,網路與資訊安全
+16,ICDF2C,International Conference on Digital Forensics & Cyber​​ Crime,C,會議,網路與資訊安全
+17,ICICS,International Conference on Information and Communications Security,C,會議,網路與資訊安全
+18,SecureComm,International Conference on Security and Privacy in Communication Networks,C,會議,網路與資訊安全
+19,NSPW,New Security Paradigms Workshop,C,會議,網路與資訊安全
+20,PAM,Passive and Active Measurement Conference,C,會議,網路與資訊安全
+21,PETS,Privacy Enhancing Technologies Symposium,C,會議,網路與資訊安全
+22,SAC,Selected Areas in Cryptography,C,會議,網路與資訊安全
+23,SOUPS,Symposium On Usable Privacy and Security,C,會議,網路與資訊安全
+24,HotSec,USENIX Workshop on Hot Topics in Security,C,會議,網路與資訊安全
+25,EuroS&P,IEEE European Symposium on Security and Privacy,C,會議,網路與資訊安全
+26,Inscrypt,International Conference on Information Security and Cryptology,C,會議,網路與資訊安全
+1,PLDI,ACM SIGPLAN Conference on Programming Language Design & Implementation,A,會議,軟體工程/系統軟體/程式設計語言
+2,POPL,ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,A,會議,軟體工程/系統軟體/程式設計語言
+3,FSE,ACM International Conference on the Foundations of Software Engineering,A,會議,軟體工程/系統軟體/程式設計語言
+4,SOSP,ACM Symposium on Operating Systems Principles,A,會議,軟體工程/系統軟體/程式設計語言
+5,OOPSLA,"Conference on Object-Oriented Programming Systems, Languages, and Applications",A,會議,軟體工程/系統軟體/程式設計語言
+6,ASE,International Conference on Automated Software Engineering,A,會議,軟體工程/系統軟體/程式設計語言
+7,ICSE,International Conference on Software Engineering,A,會議,軟體工程/系統軟體/程式設計語言
+8,ISSTA,International Symposium on Software Testing and Analysis,A,會議,軟體工程/系統軟體/程式設計語言
+9,OSDI,USENIX Symposium on Operating Systems Design and Implementations,A,會議,軟體工程/系統軟體/程式設計語言
+10,FM,International Symposium on Formal Methods,A,會議,軟體工程/系統軟體/程式設計語言
+1,ECOOP,European Conference on Object-Oriented Programming,B,會議,軟體工程/系統軟體/程式設計語言
+2,ETAPS,European Joint Conferences on Theory and Practice of Software,B,會議,軟體工程/系統軟體/程式設計語言
+3,ICPC,IEEE International Conference on Program Comprehension,B,會議,軟體工程/系統軟體/程式設計語言
+4,RE,IEEE International Requirement Engineering Conference,B,會議,軟體工程/系統軟體/程式設計語言
+5,CAiSE,International Conference on Advanced Information Systems Engineering,B,會議,軟體工程/系統軟體/程式設計語言
+6,ICFP,International Conference on Function Programming,B,會議,軟體工程/系統軟體/程式設計語言
+7,LCTES,"International Conference on Languages, Compilers and Tools for Embedded Systems",B,會議,軟體工程/系統軟體/程式設計語言
+8,MoDELS,International Conference on Model Driven Engineering Languages and Systems,B,會議,軟體工程/系統軟體/程式設計語言
+9,CP,International Conference on Principles and Practice of Constraint Programming,B,會議,軟體工程/系統軟體/程式設計語言
+10,ICSOC,International Conference on Service Oriented Computing,B,會議,軟體工程/系統軟體/程式設計語言
+11,SANER,"International Conference on Software Analysis, Evolution, and Reengineering",B,會議,軟體工程/系統軟體/程式設計語言
+12,ICSME,International Conference on Software Maintenance and Evolution,B,會議,軟體工程/系統軟體/程式設計語言
+13,VMCAI,"International Conference on Verification, Model Checking, and Abstract Interpretation",B,會議,軟體工程/系統軟體/程式設計語言
+14,ICWS,International Conference on Web Services （Research Track）,B,會議,軟體工程/系統軟體/程式設計語言
+15,Middleware,International Middleware Conference,B,會議,軟體工程/系統軟體/程式設計語言
+16,SAS,International Static Analysis Symposium,B,會議,軟體工程/系統軟體/程式設計語言
+17,ESEM,International Symposium on Empirical Software Engineering and Measurement,B,會議,軟體工程/系統軟體/程式設計語言
+18,ISSRE,International Symposium on Software Reliability Engineering,B,會議,軟體工程/系統軟體/程式設計語言
+19,HotOS,USENIX Workshop on Hot Topics in Operating Systems,B,會議,軟體工程/系統軟體/程式設計語言
+1,PEPM,ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation,C,會議,軟體工程/系統軟體/程式設計語言
+2,PASTE,ACMSIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering,C,會議,軟體工程/系統軟體/程式設計語言
+3,APLAS,Asian Symposium on Programming Languages and Systems,C,會議,軟體工程/系統軟體/程式設計語言
+4,APSEC,Asia-Pacific Software Engineering Conference,C,會議,軟體工程/系統軟體/程式設計語言
+5,EASE,Evaluation and Assessment in Software Engineering,C,會議,軟體工程/系統軟體/程式設計語言
+6,ICECCS,IEEE International Conference on Engineering of Complex Computer Systems,C,會議,軟體工程/系統軟體/程式設計語言
+7,ICST,"IEEE International Conference on Software Testing, Verification and Validation",C,會議,軟體工程/系統軟體/程式設計語言
+8,ISPASS,IEEE International Symposium on Performance Analysis of Systems and Software,C,會議,軟體工程/系統軟體/程式設計語言
+9,SCAM,IEEE International Working Conference on Source Code Analysis and Manipulation,C,會議,軟體工程/系統軟體/程式設計語言
+10,COMPSAC,International Computer Software and Applications Conference,C,會議,軟體工程/系統軟體/程式設計語言
+11,ICFEM,International Conference on Formal Engineering Methods,C,會議,軟體工程/系統軟體/程式設計語言
+12,TOOLS,"International Conference on Objects, Models, Components, Patterns",C,會議,軟體工程/系統軟體/程式設計語言
+13,QSIC,International Conference on Quality Software,C,會議,軟體工程/系統軟體/程式設計語言
+14,IEEE SSE,IEEE International Conference on Software Services Engineering,C,會議,軟體工程/系統軟體/程式設計語言
+15,ICSSP,International Conference on Software and System Process,C,會議,軟體工程/系統軟體/程式設計語言
+16,SEKE,International Conference on Software Engineering and Knowledge Engineering,C,會議,軟體工程/系統軟體/程式設計語言
+17,ICSR,International Conference on Software Reuse,C,會議,軟體工程/系統軟體/程式設計語言
+18,ICWE,International Conference on Web Engineering,C,會議,軟體工程/系統軟體/程式設計語言
+19,SPIN,International SPIN Workshop on Model Checking Software,C,會議,軟體工程/系統軟體/程式設計語言
+20,ATVA,International Symposium on Automated Technology for Verification and Analysis,C,會議,軟體工程/系統軟體/程式設計語言
+21,LOPSTR,International Symposium on Logic-based Program Synthesis and Transformation,C,會議,軟體工程/系統軟體/程式設計語言
+22,TASE,International Symposium on Theoretical Aspects of Software Engineering,C,會議,軟體工程/系統軟體/程式設計語言
+23,MSR,Mining Software Repositories,C,會議,軟體工程/系統軟體/程式設計語言
+24,REFSQ,Requirements Engineering: Foundation for Software Quality,C,會議,軟體工程/系統軟體/程式設計語言
+25,WICSA,Working IEEE/IFIP Conference on Software Architecture,C,會議,軟體工程/系統軟體/程式設計語言
+26,Internetware,Asia-Pacific Symposium on Internetware,C,會議,軟體工程/系統軟體/程式設計語言
+27,RV,International Conference on Runtime Verification,C,會議,軟體工程/系統軟體/程式設計語言
+1,SIGMOD,ACM Conference on Management of Data,A,會議,資料庫/資料探勘/內容檢索
+2,SIGKDD,ACM Knowledge Discovery and Data Mining,A,會議,資料庫/資料探勘/內容檢索
+3,ICDE,IEEE International Conference on Data Engineering,A,會議,資料庫/資料探勘/內容檢索
+4,SIGIR,International Conference on Research on Development in Information Retrieval,A,會議,資料庫/資料探勘/內容檢索
+5,VLDB,International Conference on Very Large Data Bases,A,會議,資料庫/資料探勘/內容檢索
+1,CIKM,ACM International Conference on Information and Knowledge Management,B,會議,資料庫/資料探勘/內容檢索
+2,WSDM,ACM International Conference on Web Search and Data Mining,B,會議,資料庫/資料探勘/內容檢索
+3,PODS,ACM Symposium on Principles of Database Systems,B,會議,資料庫/資料探勘/內容檢索
+4,DASFAA,Database Systems for Advanced Applications,B,會議,資料庫/資料探勘/內容檢索
+5,ECML-PKDD,European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases,B,會議,資料庫/資料探勘/內容檢索
+6,ISWC,IEEE International Semantic Web Conference,B,會議,資料庫/資料探勘/內容檢索
+7,ICDM,International Conference on Data Mining,B,會議,資料庫/資料探勘/內容檢索
+8,ICDT,國際 Conference on Database Theory,B,會議,資料庫/資料探勘/內容檢索
+9,EDBT,International Conference on Extending DB Technology,B,會議,資料庫/資料探勘/內容檢索
+10,CIDR,International Conference on Innovative Data Systems Research,B,會議,資料庫/資料探勘/內容檢索
+11,SDM,SIAM International Conference on Data Mining,B,會議,資料庫/資料探勘/內容檢索
+12,RecSys,ACM Conference on Recommender Systems,B,會議,資料庫/資料探勘/內容檢索
+1,APWeb,Asia Pacific Web Conference,C,會議,資料庫/資料探勘/內容檢索
+2,DEXA,Database and Expert System Applications,C,會議,資料庫/資料探勘/內容檢索
+3,ECIR,European Conference on IR Research,C,會議,資料庫/資料探勘/內容檢索
+4,ESWC,Extended Semantic Web Conference,C,會議,資料庫/資料探勘/內容檢索
+5,WebDB,International ACM Workshop on Web and Databases,C,會議,資料庫/資料探勘/內容檢索
+6,ER,International Conference on Conceptual Modeling,C,會議,資料庫/資料探勘/內容檢索
+7,MDM,International Conference on Mobile Data Management,C,會議,資料庫/資料探勘/內容檢索
+8,SSDBM,International Conference on Scientific and Statistical DB Management,C,會議,資料庫/資料探勘/內容檢索
+9,WAIM,International Conference on Web Age Information Management,C,會議,資料庫/資料探勘/內容檢索
+10,SSTD,International Symposium on Spatial and Temporal Databases,C,會議,資料庫/資料探勘/內容檢索
+11,PAKDD,Pacific-Asia Conference on Knowledge Discovery and Data Mining,C,會議,資料庫/資料探勘/內容檢索
+12,WISE,Web Information Systems Engineering,C,會議,資料庫/資料探勘/內容檢索
+12,ADMA,International Conference on Advanced Data Mining and Applications,C,會議,資料庫/資料探勘/內容檢索
+1,STOC,ACM Symposium on the Theory of Computing,A,會議,計算機科學理論
+2,SODA,ACM-SIAM Symposium on Discrete Algorithms,A,會議,計算機科學理論
+3,CAV,Computer Aided Verification,A,會議,計算機科學理論
+4,FOCS,IEEE Annual Symposium on Foundations of Computer Science,A,會議,計算機科學理論
+5,LICS,IEEE Symposium on Logic in Computer Science,A,會議,計算機科學理論
+1,SoCG,ACM Symposium on Computational Geometry,B,會議,計算機科學理論
+2,ESA,European Symposium on Algorithms,B,會議,計算機科學理論
+3,CCC,IEEE Con​​ference on Computational Complexity,B,會議,計算機科學理論
+4,ICALP,"International Colloquium on Automata, Languages and Programming",B,會議,計算機科學理論
+5,CADE/IJCAR,International Conference on Automated Deduction/International Joint Conference on Automated Reasoning,B,會議,計算機科學理論
+6,CONCUR,International Conference on Concurrency Theory,B,會議,計算機科學理論
+7,HSCC,International Conference on Hybrid Systems: Computation and Control,B,會議,計算機科學理論
+8,SAT,Theory and Applications of Satisfiability Testing,B,會議,計算機科學理論
+9,COCOON,International Computing and Combinatorics Conference,B,會議,計算機科學理論
+1,CSL,Computer Science Logic,C,會議,計算機科學理論
+2,FMCAD,Formal Methods in Computer-Aided Design,C,會議,計算機科學理論
+3,FSTTCS,Foundations of Software Technology and Theoretical Computer Science,C,會議,計算機科學理論
+4,DSAA,IEEE International Conference on Data Science and Advanced Analytics,C,會議,計算機科學理論
+5,ICTAC,International Colloquium on Theoretical Aspects of Computing,C,會議,計算機科學理論
+6,IPCO,International Conference on Integer Programming and Combinatorial Optimization,C,會議,計算機科學理論
+7,RTA,International Conference on Rewriting Techniques and Applications,C,會議,計算機科學理論
+8,ISAAC,International Symposium on Algorithms and Computation,C,會議,計算機科學理論
+9,MFCS,Mathematical Foundations of Computer Science,C,會議,計算機科學理論
+10,STACS,Symposium on Theoretical Aspects of Computer Science,C,會議,計算機科學理論
+11,SETTA,"International Symposium on Dependable Software Engineering: Theories, Tools, and Applications",C,會議,計算機科學理論
+1,ACM MM,ACM International Conference on Multimedia,A,會議,電腦圖形學與多媒體
+2,SIGGRAPH,ACM SIGGRAPH Annual Conference,A,會議,電腦圖形學與多媒體
+3,VR,IEEE Virtual Reality,A,會議,電腦圖形學與多媒體
+4,IEEE VIS,IEEE Visualization Conference,A,會議,電腦圖形學與多媒體
+1,ICMR,ACM SIGMM International Conference on Multimedia Retrieval,B,會議,電腦圖形學與多媒體
+2,SI3D,ACM Symposium on Interactive 3D Graphics,B,會議,電腦圖形學與多媒體
+3,SCA,ACM/Eurographics Symposium on Computer Animation,B,會議,電腦圖形學與多媒體
+4,DCC,Data Compression Conference,B,會議,電腦圖形學與多媒體
+5,EG,Eurographics,B,會議,電腦圖形學與多媒體
+6,EuroVis,Eurographics Conference on Visualization,B,會議,電腦圖形學與多媒體
+7,SGP,Eurographics Symposium on Geometry Processing,B,會議,電腦圖形學與多媒體
+8,EGSR,Eurographics Symposium on Rendering,B,會議,電腦圖形學與多媒體
+9,ICASSP,"IEEE International Conference on Acoustics, Speech and SP",B,會議,電腦圖形學與多媒體
+10,ICME,IEEE International Conference on Multimedia & Expo,B,會議,電腦圖形學與多媒體
+11,ISMAR,International Symposium on Mixed and Augmented Reality,B,會議,電腦圖形學與多媒體
+12,PG,Pacific Graphics: The Pacific Conference on Computer Graphics and Applications,B,會議,電腦圖形學與多媒體
+13,SPM,Symposium on Solid and Physical Modeling,B,會議,電腦圖形學與多媒體
+1,,ACM Symposium on Virtual Reality Software and Technology,C,會議,電腦圖形學與多媒體
+2,CASA,Computer Animation and Social Agents,C,會議,電腦圖形學與多媒體
+3,CGI,Computer Graphics International,C,會議,電腦圖形學與多媒體
+4,INTERSPEECH,Conference of the International Speech Communication Association,C,會議,電腦圖形學與多媒體
+5,GMP,Geometric Modeling and Processing,C,會議,電腦圖形學與多媒體
+6,PacificVis,IEEE Pacific Visualization Symposium,C,會議,電腦圖形學與多媒體
+7,3DV,International Conference on 3D Vision,C,會議,電腦圖形學與多媒體
+8,CAD/Graphics,International Conference on Computer-Aided Design and Computer Graphics,C,會議,電腦圖形學與多媒體
+9,ICIP,International Conference on Image Processing,C,會議,電腦圖形學與多媒體
+10,MMM,International Conference on Multimedia Modeling,C,會議,電腦圖形學與多媒體
+11,PCM,Pacific-Rim Conference on Multimedia,C,會議,電腦圖形學與多媒體
+12,SMI,Shape Modeling International,C,會議,電腦圖形學與多媒體
+13,ICVRV,International Conference on Virtual Reality and Visualization,C,會議,電腦圖形學與多媒體
+14,CVM,Computational Visual Media,C,會議,電腦圖形學與多媒體
+15,PRCV,Chinese Conference on Pattern Recognition and Computer Vision (中國模式識別與電腦視覺大會),C,會議,電腦圖形學與多媒體
+1,AAAI,AAAI Conference on Artificial Intelligence,A,會議,人工智慧
+2,NeurIPS,Annual Conference on Neural Information Processing Systems,A,會議,人工智慧
+3,ACL,Annual Meeting of the Association for Computational Linguistics,A,會議,人工智慧
+4,CVPR,IEEE Con​​ference on Computer Vision and Pattern Recognition,A,會議,人工智慧
+5,ICCV,International Conference on Computer Vision,A,會議,人工智慧
+6,ICML,International Conference on Machine Learning,A,會議,人工智慧
+7,IJCAI,International Joint Conference on Artificial Intelligence,A,會議,人工智慧
+1,COLT,Annual Conference on Computational Learning Theory,B,會議,人工智慧
+2,EMNLP,Conference on Empirical Methods in Natural Language Processing,B,會議,人工智慧
+3,ECAI,European Conference on Artificial Intelligence,B,會議,人工智慧
+4,ECCV,European Conference on Computer Vision,B,會議,人工智慧
+5,ICRA,IEEE International Conference on Robotics and Automation,B,會議,人工智慧
+6,ICAPS,International Conference on Automated Planning and Scheduling,B,會議,人工智慧
+7,ICCBR,International Conference on Case-Based Reasoning and Development,B,會議,人工智慧
+8,COLING,International Conference on Computational Linguistics,B,會議,人工智慧
+9,KR,International Conference on Principles of Knowledge Representation and Reasoning,B,會議,人工智慧
+10,UAI,International Conference on Uncertainty in Artificial Intelligence,B,會議,人工智慧
+11,AAMAS,International Joint Conference on Autonomous Agents and Multi-agent Systems,B,會議,人工智慧
+12,PPSN,Parallel Problem Solving from Nature,B,會議,人工智慧
+13,NAACL,The Annual Conference of the North American Chapter of the Association for Computational Linguistics,B,會議,人工智慧
+1,AISTATS,Artificial Intelligence and Statistics,C,會議,人工智慧
+2,ACCV,Asian Conference on Computer Vision,C,會議,人工智慧
+3,ACML,Asian Conference on Machine Learning,C,會議,人工智慧
+4,BMVC,British Machine Vision Conference,C,會議,人工智慧
+5,NLPCC,conf.International Conference on Natural Language Processing and Chinese Computing,C,會議,人工智慧
+6,CoNLL,Conference on Computational Natural Language Learning,C,會議,人工智慧
+7,GECCO,Genetic and Evolutionary Computation Conference,C,會議,人工智慧
+8,ICTAI,IEEE International Conference on Tools with Artificial Intelligence,C,會議,人工智慧
+9,IROS,IEEE/RSJ International Conference on Intelligent Robots and Systems,C,會議,人工智慧
+10,ALT,International Conference on Algorithmic Learning Theory,C,會議,人工智慧
+11,ICANN,International Conference on Artificial Neural Networks,C,會議,人工智慧
+12,FG,International Conference on Automatic Face and Gesture Recognition,C,會議,人工智慧
+13,ICDAR,International Conference on Document Analysis and Recognition,C,會議,人工智慧
+14,ILP,International Conference on Inductive Logic Programming,C,會議,人工智慧
+15,KSEM,"International conference on Knowledge Science, Engineering and Management",C,會議,人工智慧
+16,ICONIP,International Conference on Neural Information Processing,C,會議,人工智慧
+17,ICPR,International Conference on Pattern Recognition,C,會議,人工智慧
+18,ICB,International Joint Conference on Biometrics,C,會議,人工智慧
+19,IJCNN,International Joint Conference on Neural Networks,C,會議,人工智慧
+20,PRICAI,Pacific Rim International Conference on Artificial Intelligence,C,會議,人工智慧
+1,CSCW,ACM Conference on Computer Supported Cooperative Work and Social Computing,A,會議,人機互動與普適計算
+2,CHI,ACM Conference on Human Factors in Computing Systems,A,會議,人機互動與普適計算
+3,UbiComp,ACM International Conference on Ubiquitous Computing,A,會議,人機互動與普適計算
+4,UIST,ACM Symposium on User Interface Software and Technology,A,會議,人機互動與普適計算
+1,GROUP,ACM Conference on Supporting Group Work,B,會議,人機互動與普適計算
+2,IUI,ACM International Conference on Intelligent User Interfaces,B,會議,人機互動與普適計算
+3,ISS,ACM International Conference on Interactive Surfaces and Spaces,B,會議,人機互動與普適計算
+4,ECSCW,European Conference on Computer Supported Cooperative Work,B,會議,人機互動與普適計算
+5,PERCOM,IEEE International Conference on Pervasive Computing and Communications,B,會議,人機互動與普適計算
+6,MobileHCI,International Conference on Human Computer Interaction with Mobile Devices and Services,B,會議,人機互動與普適計算
+7,ICWSM,The International AAAI Conference on Web and Social Media,B,會議,人機互動與普適計算
+1,DIS,ACM Conference on Designing Interactive Systems,C,會議,人機互動與普適計算
+2,ICMI,ACM International Conference on Multimodal Interaction,C,會議,人機互動與普適計算
+3,ASSETS,ACM SIGACCESS Conference on Computers and Accessibility,C,會議,人機互動與普適計算
+4,GI,Graphics Interface conference,C,會議,人機互動與普適計算
+5,UIC,IEEE International Conference on Ubiquitous Intelligence and Computing,C,會議,人機互動與普適計算
+6,,IEEE World Haptics Conference,C,會議,人機互動與普適計算
+7,INTERACT,IFIP TC13 Conference on Human-Computer Interaction,C,會議,人機互動與普適計算
+8,IDC,Interaction Design and Children,C,會議,人機互動與普適計算
+9,CollaborateCom,"International Conference on Collaborative Computing: Networking, Applications and Worksharing",C,會議,人機互動與普適計算
+10,CSCWD,International Conference on Computer Supported Cooperative Work in Design,C,會議,人機互動與普適計算
+11,CoopIS,International Conference on Cooperative Information Systems,C,會議,人機互動與普適計算
+12,MobiQuitous,"International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services",C,會議,人機互動與普適計算
+13,AVI,International Working Conference on Advanced Visual Interfaces,C,會議,人機互動與普適計算
+1,WWW,International World Wide Web Conferences,A,會議,交叉/綜合/新興
+2,RTSS,Real-Time Systems Symposium,A,會議,交叉/綜合/新興
+3,WINE,Conference on Web and Internet Economics,A,會議,交叉/綜合/新興
+1,CogSci,Cognitive Science Society Annual Conference,B,會議,交叉/綜合/新興
+2,BIBM,IEEE International Conference on Bioinformatics and Biomedicine,B,會議,交叉/綜合/新興
+3,EMSOFT,International Conference on Embedded Software,B,會議,交叉/綜合/新興
+4,ISMB,International conference on Intelligent Systems for Molecular Biology,B,會議,交叉/綜合/新興
+5,RECOMB,International Conference on Research in Computational Molecular Biology,B,會議,交叉/綜合/新興
+6,MICCAI,International Conference on Medical Image Computing and Computer-Assisted Intervention,B,會議,交叉/綜合/新興
+1,AMIA,American Medical Informatics Association Annual Symposium,C,會議,交叉/綜合/新興
+2,APBC,Asia Pacific Bioinformatics Conference,C,會議,交叉/綜合/新興
+3,,IEEE International Conference on Big Data,C,會議,交叉/綜合/新興
+4,,IEEE International Conference on Cloud Computing,C,會議,交叉/綜合/新興
+5,SMC,"IEEE International Conference on Systems, Man, and Cyber​​netics",C,會議,交叉/綜合/新興
+6,COSIT,International Conference on Spatial Information Theory,C,會議,交叉/綜合/新興
+7,ISBRA,International Symposium on Bioinformatics Research and Applications,C,會議,交叉/綜合/新興
+8,SAGT,International Symposium on Algorithmic Game Theory,C,會議,交叉/綜合/新興
+9,SIGSPATIAL,ACM Special Interest Group on Spatial Information,C,會議,交叉/綜合/新興
+10,ICIC,International Conference on Intelligent Computing,C,會議,交叉/綜合/新興
