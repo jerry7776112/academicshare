@@ -2,8 +2,8 @@ import pandas as pd
 import streamlit as st
 import streamlit.components.v1 as components
 
-conference = pd.read_csv(".\data\computerscience1.csv", encoding='utf-8-sig')
-journal = pd.read_csv(".\data\computerscience2.csv", encoding='utf-8-sig')
+conference = pd.read_csv("./data/computerscience1.csv", encoding='utf-8-sig')
+journal = pd.read_csv("./data/computerscience2.csv", encoding='utf-8-sig')
 
 df = pd.concat([conference, journal], axis=0)
 # df = pd.DataFrame()
