@@ -47,25 +47,15 @@ filtered_df = df[
 
 # 顯示篩選結果 
 st.write('篩選結果：') 
-# st.dataframe(filtered_df)
+st.dataframe(filtered_df, hide_index=True)
 # st.dataframe(df.style.hide(axis="index"), column_config=config)
 # st.dataframe(df.style.highlight_max(axis=0))
-st.markdown(filtered_df.style.hide(axis="index").to_html(), unsafe_allow_html=True)
+# st.markdown(filtered_df.style.hide(axis="index").to_html(), unsafe_allow_html=True)
 
 # AdSense 程式碼 
 adsense_code = """ 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5870212936948418"
-     crossorigin="anonymous"></script>
-<!-- AcademicFreedom -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-5870212936948418"
-     data-ad-slot="6889789127"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script> 
+     crossorigin="anonymous"></script> 
 """ 
 # # 在 Streamlit 應用中嵌入 AdSense 程式碼 
 components.html(adsense_code)
