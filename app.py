@@ -45,13 +45,6 @@ filtered_df = df[
     ((df['分類'] == selected_category) | (selected_category == '顯示全部'))
     ]
 
-# 顯示篩選結果 
-st.write('篩選結果：') 
-st.dataframe(filtered_df, hide_index=True)
-# st.dataframe(df.style.hide(axis="index"), column_config=config)
-# st.dataframe(df.style.highlight_max(axis=0))
-# st.markdown(filtered_df.style.hide(axis="index").to_html(), unsafe_allow_html=True)
-
 # AdSense 程式碼 
 adsense_code = """ 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5870212936948418"
@@ -59,3 +52,12 @@ adsense_code = """
 """ 
 # # 在 Streamlit 應用中嵌入 AdSense 程式碼 
 components.html(adsense_code)
+
+# 顯示篩選結果 
+st.write('篩選結果：') 
+st.dataframe(filtered_df, hide_index=True)
+# st.dataframe(df.style.hide(axis="index"), column_config=config)
+# st.dataframe(df.style.highlight_max(axis=0))
+# st.markdown(filtered_df.style.hide(axis="index").to_html(), unsafe_allow_html=True)
+
+
